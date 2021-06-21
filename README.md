@@ -1,7 +1,7 @@
 # My Portfolio
 
 <a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo
-<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/eyePiciture.jpg" width="300px"/>
+<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/eyePiciture.jpg" width="100px" height="100px"/>
 </a>
 
 <a href="https://jamallangoy.github.io/Pacman-Factory/"> PacMan Factory
