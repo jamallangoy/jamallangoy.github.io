@@ -1,7 +1,7 @@
 # My Portfolio
 
 <a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo
-<img src="<img src="https://jamallangoy.github.io/main/images.eyePicture.jpg" width="300px"/>
+<img src="https://jamallangoy.github.io/main/images.eyePicture.jpg" width="300px"/>
 
 </a>
 
