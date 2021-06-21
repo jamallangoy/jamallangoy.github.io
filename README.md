@@ -1,9 +1,5 @@
 # My Portfolio
 
-## @jamallangoy.github.io
-
-# Peek-A-Boo
-
 <a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo</a>
 
 ## Version 1 - Week 11: Portfolio (Putting it all Together) (MIT XPro, June 2021)
