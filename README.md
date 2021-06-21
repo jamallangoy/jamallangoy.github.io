@@ -1,6 +1,9 @@
 # My Portfolio
 
-<a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo</a>
+<a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo
+<img src="<img src="https://jamallangoy.github.io/main/images.eyePicture.jpg" width="300px"/>
+
+</a>
 
 <a href="https://jamallangoy.github.io/Pacman-Factory/"> PacMan Factory</a>
 
