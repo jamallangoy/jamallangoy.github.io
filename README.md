@@ -2,7 +2,7 @@
 
 <a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo</a>
 
-<a href="https://jamallangoy.github.io/PacMan-Factory"> PacMan Factory</a>
+<a href="https://jamallangoy.github.io/Pacman-Factory/"> PacMan Factory</a>
 
 <a href="https://jamallangoy.github.io/realTimeBusTracker">Real Time Bus Tracker</a>
 
