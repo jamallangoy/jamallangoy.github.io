@@ -2,6 +2,12 @@
 
 <a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo</a>
 
+<a href="https://jamallangoy.github.io/pacMan-factory"> PacMan Factory</a>
+
+<a href="https://jamallangoy.github.io/realTimeBusTracker">Real Time Bus Tracker</a>
+
+<a href="https://jamallangoy.github.io/myPacMan"> My First PacMan</a>
+
 ## Version 1 - Week 11: Portfolio (Putting it all Together) (MIT XPro, June 2021)
 
 # Description
