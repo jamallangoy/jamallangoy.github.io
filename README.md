@@ -8,7 +8,7 @@
 <img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/" width="300px"/>
 
 <a href="https://jamallangoy.github.io/realTimeBusTracker">Real Time Bus Tracker</a>
-<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/" width="300px"/>
+<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/magicBusImage.jpg" width="300px"/>
 
 <a href="https://jamallangoy.github.io/myPacMan"> My First PacMan</a>
 <img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/" width="300px"/>
