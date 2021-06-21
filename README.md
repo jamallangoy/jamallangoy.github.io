@@ -1,17 +1,13 @@
 # My Portfolio
 
 <a href="https://jamallangoy.github.io/peek-a-boo"> Peek-A-Boo</a>
-<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/eyePiciture.jpg" width="300px"/>
 
 
 <a href="https://jamallangoy.github.io/Pacman-Factory/"> PacMan Factory</a>
-<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/" width="300px"/>
 
 <a href="https://jamallangoy.github.io/realTimeBusTracker">Real Time Bus Tracker</a>
-<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/magicBusImage.jpg" width="300px"/>
 
 <a href="https://jamallangoy.github.io/myPacMan"> My First PacMan</a>
-<img src="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/" width="300px"/>
 
 ## Version 1 - Week 11: Portfolio (Putting it all Together) (MIT XPro, June 2021)
 
