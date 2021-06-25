@@ -1,7 +1,88 @@
-<html>
-    <body>
-        <h1>Jamall's Portfolio</h1>
-        <img src = "./mypic.png" width="300px" height="300px">
-        
-    </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./jamallStyles.css">
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+    <title>My Portfolio (First-Take)</title>
+</head>
+<body>
+
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#" style= "color: rgb(65, 182, 230); font-size: 1.8em">Jamall's Portfolio</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="#biography">Personal Bio</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#video">Video Intro</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Resources
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <li><a class="dropdown-item" href="https://executive-ed.xpro.mit.edu/professional-certificate-coding">MIT XPro</a></li>
+              <li><a class="dropdown-item" href="https://developer.mozilla.org/en-US/">MDN Docs</a></li>
+              <li><a class="dropdown-item" href="https://www.w3schools.com/">W3Schools</a></li>
+            </ul>
+          </li>
+          </form>
+      </div>
+    </div>
+  </nav>
+
+  <div class='container'>
+      
+      <div class="sidebar"><img class = "myPic" src = "./mypic.png">
+        <div class="social card" style="width: 100%"><h2 class="center" style="background-color: rgb(65, 182, 230);">Socials</h2>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"><i class="fab fa-linkedin" style="padding:5px"></i><a href="https://www.linkedin.com/in/jamall-angoy-12b0ba20b/" target="_blank">LinkedIn</a></li>
+            <li class="list-group-item"><i class="fab fa-twitter" style="padding:5px"></i><a href="https://twitter.com/AngoyJamall" target="_blank">Twitter</a></li>
+            <li class="list-group-item"><i class="fab fa-youtube" style="padding:5px"></i><a href="https://www.youtube.com/channel/UC9h-C1ERMdoIi5bdI8zeeZQ/videos" target="_blank">Youtube Channel</a></li>
+            
+          </ul>
+        </div>
+        <div class="repo card" style="width: 100%"><h2 class="center" style="background-color: rgb(65, 182, 230);"><i class="fab fa-github"></i>Repos</h2>
+          <ul class="list-group list-group-flush">
+            <li class="list-group-item"><a href="https://github.com/jamallangoy/jamallangoy.github.io" target="_blank">My Portfolio</a></li>
+            <li class="list-group-item"><a href="https://jamallangoy.github.io/peek-a-boo/" target="_blank">Peek-A-Boo</a></li>
+            <li class="list-group-item"><a href="https://jamallangoy.github.io/Pacman-Factory/" target="_blank">Pacman Factory</a></li>
+            <li class="list-group-item"><a href="https://jamallangoy.github.io/realTimeBusTracker/" target="_blank">Real-Time Bus Tracker</a></li>
+            <li class="list-group-item"><a href="https://jamallangoy.github.io/myPacMan/" target="_blank">My First Pacman</a></li>
+          </ul>
+        </div>
+      </div>
+      <div id="video" class="aboutMe"><h2></h2><br>
+        <iframe class="vid" width="600" height="345" src="https://www.youtube.com/embed/watch?v=TyZRaAy4PIw"></iframe>
+      </div>
+
+      <div id= "biography" class="bio"><h2>Personal Biography</h2>
+        <p>	It is our differences that make us unique.  My name is Jamall Angoy and I'm addicted to Software Development and its endless opportunity of personal creativity.  Being a graduate of MIT’s Professional Software Development program, put me at the forefront of the latest and innovative practices of Javascript, in relation to the MERN stack (Mongo, Express, React, Node).  Together, these components focus on the “Full-Stack” or the complete process of Software Development.
+          My unique set of skills include but are not limited to being: A Pioneer (daring to be different), Creative, an Active-listener, and Solution-oriented.  My range of skills, abilities, and experiences make me a perfect fit for Software Development teams.
+          Oppurtunity knocks every day for those who are ready.  I am confident to say that I am ready and willing to open the door! 
+        </p>
+      </div>
+  
+    </div>
+
+
+
+
+
+    <script src="./jamall.js"></script> -->
+    <!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    
+</body>
 </html>
+

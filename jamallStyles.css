@@ -1,0 +1,110 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+  display:grid;
+  height:85vh;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-template-rows: 2fr 2fr;
+  gap: 3px;
+  grid-template-areas: 
+
+    "sidebar aboutMe aboutMe aboutMe"
+    "sidebar bio bio bio"
+  ;
+}
+
+p{
+  font-size: 1.6rem;
+  font-weight:100;
+  text-align: left;
+  padding: 15px;
+}
+
+.card, h2{
+ color: rgb(65,182,230);
+}
+
+h3{
+  color: white;
+}
+
+.fab{
+  text-align:justify;
+  padding: 5px;
+}
+
+.fa-youtube{
+  color:red;
+}
+
+.fa-twitter{
+  color:rgb(0,172,238);
+}
+
+.fa-linkedin{
+  color:rgb(14,118,168);
+}
+
+
+
+main, .sidebar, .aboutMe, .bio, .repo, .social, footer, .center{
+  padding: 15px;
+  text-align: center;
+}
+
+main{
+  grid-area: main;
+}
+
+.myPic{
+  width:300px;
+  height: 300px;
+  border-radius: 50px;
+  margin: 25px 0 10px;
+}
+
+.sidebar{
+  grid-area: sidebar;
+}
+
+.aboutMe{
+  grid-area: aboutMe;
+}
+
+.bio{
+  grid-area: bio;
+}
+
+.repo{
+  grid-area: repo;
+  text-align: left;
+}
+
+.social{
+  grid-area: social;
+  text-align:justify
+}
+
+.center{
+  color:white;
+  background-color: rgb(65,182,230)
+}
+
+
+@media only screen and (max-width:980px){
+  .container{
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-areas: 
+      "sidebar"
+      "aboutMe"
+      "bio"
+      ;
+  }
+  .vid{
+    width: 450px;
+    height: 345px;
+  }
+}
