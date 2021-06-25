@@ -9,8 +9,6 @@
 
 <a href="https://jamallangoy.github.io/myPacMan"> My First PacMan</a>
 
-<a href="https://github.com/jamallangoy/jamallangoy.github.io/blob/main/images/magicBusImage.jpg">jfskjfds </a>
-
 ## Version 1 - Week 11: Portfolio (Putting it all Together) (MIT XPro, June 2021)
 
 # Description
