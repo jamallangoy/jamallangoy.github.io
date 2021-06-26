@@ -59,10 +59,10 @@ main{
 }
 
 .myPic{
-  width:300px;
-  height: 300px;
+  width:350px;
+  height: 375px;
   border-radius: 50px;
-  margin: 25px 0 10px;
+  margin: 70px 0 10px;
 }
 
 .sidebar{
@@ -84,7 +84,8 @@ main{
 
 .social{
   grid-area: social;
-  text-align:justify
+  text-align:justify;
+  margin-top: 35px;
 }
 
 .center{
