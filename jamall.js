@@ -32,3 +32,5 @@ setTimeout(softReminder, 10000)
      event.target.mute();
     event.target.playVideo();
   }
+
+  
